@@ -60,4 +60,4 @@ if __name__ == "__main__":
 ![image](https://github.com/Hemanath08/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/151807176/83ffc5b3-f91e-42be-9ea4-413ef4a60347)
 
 ## Result
-
+Thus the socket for HTTP for web page upload and download created and Executed
